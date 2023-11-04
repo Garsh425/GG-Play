@@ -1,0 +1,21 @@
+@media (max-width: 1200px) {
+    .container {
+        padding: 0 20px;
+    }
+    
+    .form__picture {
+        display: none;
+    }
+
+    .container__form {
+        flex-wrap: wrap;
+    }
+
+    .form__container {
+        flex-wrap: wrap;
+    }
+
+    .select {
+        width: auto;
+    }
+}
